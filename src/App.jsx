@@ -1,5 +1,5 @@
 import { useState } from 'react' 
-import { Route, Router, Routes } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css' 
 import Aleatorios from './componentes/aleatorios' 
 import Captutados from './componentes/capturados' 
