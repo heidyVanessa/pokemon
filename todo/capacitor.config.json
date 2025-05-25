@@ -1,0 +1,5 @@
+{
+  "appId": "com.pokemon.app",
+  "appName": "pokemon",
+  "webDir": "dist"
+}
